@@ -1,0 +1,198 @@
+февр. 23, 2024 6:23:19 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=1, brand='Dell', computerName='NexusWave_2', computers='John Doe', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:19 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=2, brand='Apple', computerName='StellarByte_4', computers='Alice Smith', system='MacBook', type='Laptop', hascam=5}
+февр. 23, 2024 6:23:19 PM org.example.Main createdObject
+INFO: Created syberNova of Class QuantumPulse: метод 'QuantumPulse' Computer{id=3, brand='HP', computerName='QuantumPulse_3', computers='Bob Johnson', system='Linux', type='Workstation', hascam=0}
+февр. 23, 2024 6:23:19 PM org.example.Main createdObject
+INFO: Created syberNova of Class VirtuosoSystem: метод  'TechMaverick' Computer{id=4, brand='Lenovo', computerName='TechMaverick_5', computers='Emily White', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:19 PM org.example.Main createdObject
+INFO: Created syberNova of Class Alabay: метод 'VirtuosoSystem' Computer{id=5, brand='HP', computerName='VirtuosoSystem_6', computers='Michael Brown', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:19 PM org.example.Main createdObject
+INFO: Created syberNova of Class ACyberNova: метод 'CyberNova' Computer{id=6, brand='Dell', computerName='CyberNova_1', computers='Sophia Miller', system='Ubuntu', type='Server', hascam=0}
+февр. 23, 2024 6:23:19 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=7, brand='Apple', computerName='NexusWave_2', computers='Daniel Wilson', system='MacOS', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:19 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=8, brand='Lenovo', computerName='StellarByte_4', computers='Olivia Davis', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class QuantumPulse: метод 'QuantumPulse' Computer{id=9, brand='HP', computerName='QuantumPulse_3', computers='William Taylor', system='Linux', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class VirtuosoSystem: метод  'TechMaverick' Computer{id=10, brand='Dell', computerName='TechMaverick_5', computers='Emma Anderson', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class Alabay: метод 'VirtuosoSystem' Computer{id=11, brand='Apple', computerName='VirtuosoSystem_6', computers='James Jackson', system='MacBook', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class ACyberNova: метод 'CyberNova' Computer{id=12, brand='HP', computerName='CyberNova_1', computers='Ava Wilson', system='Windows', type='Workstation', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=13, brand='Dell', computerName='NexusWave_2', computers='Sophie Turner', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=14, brand='Apple', computerName='StellarByte_4', computers='Chris Evans', system='MacBook', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class QuantumPulse: метод 'QuantumPulse' Computer{id=15, brand='HP', computerName='QuantumPulse_3', computers='Emma Stone', system='Linux', type='Workstation', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class VirtuosoSystem: метод  'TechMaverick' Computer{id=16, brand='Lenovo', computerName='TechMaverick_5', computers='Alex Johnson', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class Alabay: метод 'VirtuosoSystem' Computer{id=17, brand='HP', computerName='VirtuosoSystem_6', computers='Oliver Smith', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class ACyberNova: метод 'CyberNova' Computer{id=18, brand='Dell', computerName='CyberNova_1', computers='Isabella Davis', system='Ubuntu', type='Server', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=19, brand='Apple', computerName='NexusWave_2', computers='David Brown', system='MacOS', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=20, brand='Lenovo', computerName='StellarByte_4', computers='Sophia White', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class QuantumPulse: метод 'QuantumPulse' Computer{id=21, brand='HP', computerName='QuantumPulse_3', computers='Mason Taylor', system='Linux', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class VirtuosoSystem: метод  'TechMaverick' Computer{id=22, brand='Dell', computerName='TechMaverick_5', computers='Hannah Anderson', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class Alabay: метод 'VirtuosoSystem' Computer{id=23, brand='Apple', computerName='VirtuosoSystem_6', computers='William Jackson', system='MacBook', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class ACyberNova: метод 'CyberNova' Computer{id=24, brand='HP', computerName='CyberNova_1', computers='Ella Wilson', system='Windows', type='Workstation', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=25, brand='Dell', computerName='NexusWave_2', computers='Sophie Turner', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=26, brand='Apple', computerName='StellarByte_4', computers='Chris Evans', system='MacBook', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class QuantumPulse: метод 'QuantumPulse' Computer{id=27, brand='HP', computerName='QuantumPulse_3', computers='Emma Stone', system='Linux', type='Workstation', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class VirtuosoSystem: метод  'TechMaverick' Computer{id=28, brand='Lenovo', computerName='TechMaverick_5', computers='Alex Johnson', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class Alabay: метод 'VirtuosoSystem' Computer{id=29, brand='HP', computerName='VirtuosoSystem_6', computers='Oliver Smith', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class ACyberNova: метод 'CyberNova' Computer{id=30, brand='Dell', computerName='CyberNova_1', computers='Isabella Davis', system='Ubuntu', type='Server', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=31, brand='Apple', computerName='NexusWave_2', computers='David Brown', system='MacOS', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=32, brand='Lenovo', computerName='StellarByte_4', computers='Sophia White', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class QuantumPulse: метод 'QuantumPulse' Computer{id=33, brand='HP', computerName='QuantumPulse_3', computers='Mason Taylor', system='Linux', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class VirtuosoSystem: метод  'TechMaverick' Computer{id=34, brand='Dell', computerName='TechMaverick_5', computers='Hannah Anderson', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class Alabay: метод 'VirtuosoSystem' Computer{id=35, brand='Apple', computerName='VirtuosoSystem_6', computers='William Jackson', system='MacBook', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class ACyberNova: метод 'CyberNova' Computer{id=36, brand='HP', computerName='CyberNova_1', computers='Ella Wilson', system='Windows', type='Workstation', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=37, brand='Dell', computerName='NexusWave_2', computers='Sophie Turner', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=38, brand='Apple', computerName='StellarByte_4', computers='Chris Evans', system='MacBook', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class QuantumPulse: метод 'QuantumPulse' Computer{id=39, brand='HP', computerName='QuantumPulse_3', computers='Emma Stone', system='Linux', type='Workstation', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class VirtuosoSystem: метод  'TechMaverick' Computer{id=40, brand='Lenovo', computerName='TechMaverick_5', computers='Alex Johnson', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class Alabay: метод 'VirtuosoSystem' Computer{id=41, brand='HP', computerName='VirtuosoSystem_6', computers='Oliver Smith', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class ACyberNova: метод 'CyberNova' Computer{id=42, brand='Dell', computerName='CyberNova_1', computers='Isabella Davis', system='Ubuntu', type='Server', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=43, brand='Apple', computerName='NexusWave_2', computers='David Brown', system='MacOS', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=44, brand='Lenovo', computerName='StellarByte_4', computers='Sophia White', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class QuantumPulse: метод 'QuantumPulse' Computer{id=45, brand='HP', computerName='QuantumPulse_3', computers='Mason Taylor', system='Linux', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class VirtuosoSystem: метод  'TechMaverick' Computer{id=46, brand='Dell', computerName='TechMaverick_5', computers='Hannah Anderson', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class Alabay: метод 'VirtuosoSystem' Computer{id=47, brand='Apple', computerName='VirtuosoSystem_6', computers='William Jackson', system='MacBook', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class ACyberNova: метод 'CyberNova' Computer{id=48, brand='HP', computerName='CyberNova_1', computers='Ella Wilson', system='Windows', type='Workstation', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=49, brand='Dell', computerName='NexusWave_2', computers='Sophie Turner', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=50, brand='Apple', computerName='StellarByte_4', computers='Chris Evans', system='MacBook', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class QuantumPulse: метод 'QuantumPulse' Computer{id=51, brand='HP', computerName='QuantumPulse_3', computers='Emma Stone', system='Linux', type='Workstation', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class VirtuosoSystem: метод  'TechMaverick' Computer{id=52, brand='Lenovo', computerName='TechMaverick_5', computers='Alex Johnson', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class Alabay: метод 'VirtuosoSystem' Computer{id=53, brand='HP', computerName='VirtuosoSystem_6', computers='Oliver Smith', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class ACyberNova: метод 'CyberNova' Computer{id=54, brand='Dell', computerName='CyberNova_1', computers='Isabella Davis', system='Ubuntu', type='Server', hascam=5}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=55, brand='Apple', computerName='NexusWave_2', computers='David Brown', system='MacOS', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=56, brand='Lenovo', computerName='StellarByte_4', computers='Sophia White', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class QuantumPulse: метод 'QuantumPulse' Computer{id=57, brand='HP', computerName='QuantumPulse_3', computers='Mason Taylor', system='Linux', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class VirtuosoSystem: метод  'TechMaverick' Computer{id=58, brand='Dell', computerName='TechMaverick_5', computers='Hannah Anderson', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class Alabay: метод 'VirtuosoSystem' Computer{id=59, brand='Apple', computerName='VirtuosoSystem_6', computers='William Jackson', system='MacBook', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class ACyberNova: метод 'CyberNova' Computer{id=60, brand='HP', computerName='CyberNova_1', computers='Ella Wilson', system='Windows', type='Workstation', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=61, brand='Dell', computerName='NexusWave_2', computers='Benjamin Harris', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=62, brand='Apple', computerName='StellarByte_4', computers='Samantha Lewis', system='MacBook', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class QuantumPulse: метод 'QuantumPulse' Computer{id=63, brand='HP', computerName='QuantumPulse_3', computers='Daniel Turner', system='Linux', type='Workstation', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class VirtuosoSystem: метод  'TechMaverick' Computer{id=64, brand='Lenovo', computerName='TechMaverick_5', computers='Olivia White', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class Alabay: метод 'VirtuosoSystem' Computer{id=65, brand='HP', computerName='VirtuosoSystem_6', computers='Henry Martin', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class ACyberNova: метод 'CyberNova' Computer{id=66, brand='Dell', computerName='CyberNova_1', computers='Ava Thompson', system='Ubuntu', type='Server', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=67, brand='Apple', computerName='NexusWave_2', computers='Liam Clark', system='MacOS', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=68, brand='Lenovo', computerName='StellarByte_4', computers='Emily Johnson', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class QuantumPulse: метод 'QuantumPulse' Computer{id=69, brand='HP', computerName='QuantumPulse_3', computers='Noah Parker', system='Linux', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class ACyberNova: метод 'CyberNova' Computer{id=70, brand='Dell', computerName='CyberNova_1', computers='Sophia Turner', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=71, brand='Apple', computerName='NexusWave_2', computers='Ethan Evans', system='MacBook', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=72, brand='Lenovo', computerName='StellarByte_4', computers='Aiden Martinez', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class QuantumPulse: метод 'QuantumPulse' Computer{id=73, brand='HP', computerName='QuantumPulse_3', computers='Chloe Roberts', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class VirtuosoSystem: метод  'TechMaverick' Computer{id=74, brand='Dell', computerName='TechMaverick_5', computers='Elijah Harris', system='Linux', type='Workstation', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class ACyberNova: метод 'CyberNova' Computer{id=75, brand='Apple', computerName='CyberNova_1', computers='Zoe Miller', system='MacOS', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=76, brand='Lenovo', computerName='NexusWave_2', computers='Caleb Thompson', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=77, brand='HP', computerName='StellarByte_4', computers='Mia Turner', system='Ubuntu', type='Server', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class QuantumPulse: метод 'QuantumPulse' Computer{id=78, brand='Dell', computerName='QuantumPulse_3', computers='Isaac Lewis', system='Linux', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class VirtuosoSystem: метод  'TechMaverick' Computer{id=79, brand='Apple', computerName='TechMaverick_5', computers='Scarlett Adams', system='MacBook', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class Alabay: метод 'VirtuosoSystem' Computer{id=80, brand='HP', computerName='VirtuosoSystem_6', computers='Luke Johnson', system='Windows', type='Workstation', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class ACyberNova: метод 'CyberNova' Computer{id=81, brand='Lenovo', computerName='CyberNova_1', computers='Avery Wilson', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=82, brand='HP', computerName='NexusWave_2', computers='Jackson Clark', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=83, brand='Dell', computerName='StellarByte_4', computers='Lily Martin', system='Ubuntu', type='Server', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class QuantumPulse: метод 'QuantumPulse' Computer{id=84, brand='Apple', computerName='QuantumPulse_3', computers='Jack White', system='MacOS', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class VirtuosoSystem: метод  'TechMaverick' Computer{id=85, brand='Lenovo', computerName='TechMaverick_5', computers='Grace Taylor', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=86, brand='HP', computerName='NexusWave_2', computers='Ryan Davis', system='Linux', type='Workstation', hascam=3}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=87, brand='Dell', computerName='StellarByte_4', computers='Madison Brown', system='Windows', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class QuantumPulse: метод 'QuantumPulse' Computer{id=88, brand='Apple', computerName='QuantumPulse_3', computers='Gabriel Evans', system='MacBook', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class VirtuosoSystem: метод  'TechMaverick' Computer{id=89, brand='Lenovo', computerName='TechMaverick_5', computers='Hazel Wilson', system='Ubuntu', type='Server', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class Alabay: метод 'VirtuosoSystem' Computer{id=90, brand='HP', computerName='VirtuosoSystem_6', computers='Christopher', system='MacOS', type='Desktop', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class ACyberNova: метод 'CyberNova' Computer{id=91, brand='Apple', computerName='CyberNova_1', computers='Aria Harris', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=92, brand='Dell', computerName='NexusWave_2', computers='Leo Thompson', system='Linux', type='Workstation', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=93, brand='Lenovo', computerName='StellarByte_4', computers='Stella Adams', system='Windows', type='Desktop', hascam=2}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class QuantumPulse: метод 'QuantumPulse' Computer{id=94, brand='HP', computerName='QuantumPulse_3', computers='Mason Turner', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class VirtuosoSystem: метод  'TechMaverick' Computer{id=95, brand='Apple', computerName='TechMaverick_5', computers='Aurora Clark', system='Ubuntu', type='Server', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class Alabay: метод 'VirtuosoSystem' Computer{id=96, brand='HP', computerName='VirtuosoSystem_6', computers='Zachary White', system='Linux', type='Desktop', hascam=2}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class ACyberNova: метод 'CyberNova' Computer{id=97, brand='Lenovo', computerName='CyberNova_1', computers='Ellie Taylor', system='Windows', type='Laptop', hascam=1}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class NexusWave: метод  'NexusWave' Computer{id=98, brand='Dell', computerName='NexusWave_2', computers='Logan Davis', system='Windows', type='Workstation', hascam=0}
+февр. 23, 2024 6:23:20 PM org.example.Main createdObject
+INFO: Created syberNova of Class StellarByte: метод  'StellarByte' Computer{id=99, brand='Apple', computerName='StellarByte_4', computers='Penelope Johnson', system='MacOS', type='Dgitesktop', hascam=0}
