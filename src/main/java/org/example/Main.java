@@ -92,6 +92,7 @@ public class Main {
         for (int c = 2; c < data.length; c++) {
             var peaces = data[c].split(";");
             Computer sybernova = null;
+            logger.info("Start of process");
             switch (peaces[2]) {
                 case "CyberNova_1":
                     sybernova = new CyberNova
@@ -131,6 +132,7 @@ public class Main {
                     logger.log(Level.INFO , "Created syberNova of Class VirtuosoSystem: " + sybernova);
                     break;
             }
+            logger.info("End of process");
             myList.add(sybernova);
         }
         return myList;
